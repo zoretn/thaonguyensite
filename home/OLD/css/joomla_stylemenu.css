@@ -1,0 +1,107 @@
+/* CSS Document */
+.ThemeOfficeMenu,.ThemeOfficeSubMenuTable
+{
+	white-space:	nowrap;
+}
+.ThemeOfficeSubMenu
+{
+	position:	absolute;
+	visibility:	hidden;
+	z-index:	100;
+	border:		0;
+	padding:	0;
+
+	/*overflow:	visible;*/
+	border:		1px solid #8C867B;
+	border-bottom:none;
+	background-color:#333333;
+	cursor:pointer;
+/*	filter:progid:DXImageTransform.Microsoft.Shadow(color=#BDC3BD, Direction=135, Strength=4);*/
+}
+.ThemeOfficeSubMenuTable
+{
+	overflow:	visible;
+}
+.ThemeOfficeMainItem, .ThemeOfficeMainFolder {
+	color:#AAAAAA;
+	background-image:url(../images/bg_menuitemleft.jpg);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.ThemeOfficeMainItemHover, .ThemeOfficeMainFolderHover {
+	color:#647286;
+	background-image:url(../images/bg_menuitemleft.jpg);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.ThemeOfficeMainItemActive, .ThemeOfficeMainFolderActive {
+	color:#FF9900;
+	background-image:url(../images/bg_menuitemleft.jpg);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.ThemeOfficeMainFolderLeft, .ThemeOfficeMainItemLeft {
+}
+.ThemeOfficeMainFolderRight, .ThemeOfficeMainItemRight {
+}
+.ThemeOfficeMainFolderText, .ThemeOfficeMainItemText {
+	font-family:Tahoma;
+	font-size:11px;
+	font-weight:bold;
+	padding-left:55px;
+	height:28px;
+	width:134px;
+}
+
+
+.ThemeOfficeMenuItem, .ThemeOfficeMenuFolder {
+	color:#AAAAAA;
+	cursor:pointer;
+	border:1px solid #FFFFFF;
+}
+.ThemeOfficeMenuItemHover,.ThemeOfficeMenuItemActive, .ThemeOfficeMenuFolderHover, .ThemeOfficeMenuFolderActive {
+	color:#647286;
+	border-top:1px solid #666666;
+}
+.ThemeOfficeMenuFolderText, .ThemeOfficeMenuItemText {
+	font-family:Tahoma;
+	font-size:11px;
+	font-weight:bold;
+	padding:5px;
+	border-bottom:1px solid #FFFFFF;
+}
+.ThemeOfficeMenuFolderLeft, .ThemeOfficeMenuItemLeft, .ThemeOfficeMenuFolderRight, .ThemeOfficeMenuItemRight {
+	border-bottom:1px solid #FFFFFF;
+}
+.ThemeOfficeMenuSplit
+{
+	margin:		2px;
+	height:		1px;
+	overflow:	hidden;
+	background-color:	inherit;
+}
+.ThemeOfficeMenuItem img.seq1
+{
+	/*display:	inline;*/
+}
+.ThemeOfficeMenuItemHover seq2,
+.ThemeOfficeMenuItemActive seq2
+{
+	/*display:	inline;*/
+}
+.ThemeOfficeMenuItem .seq2,
+.ThemeOfficeMenuItemHover .seq1,
+.ThemeOfficeMenuItemActive .seq1
+{
+	display:	none;
+}
+div.inactive td.ThemeOfficeMainItemHover, div.inactive td.ThemeOfficeMainItemActive {
+	border:1px solid #FFFFFF;
+}
+div.inactive .ThemeOfficeMainItem {border:1px solid #FFFFFF;
+}
+div.inactive span.ThemeOfficeMainItemText {
+}
+div.inactive .ThemeOfficeMainItemHover, div.inactive .ThemeOfficeMainItemActive
+{border:1px solid #FFFFFF;
+}

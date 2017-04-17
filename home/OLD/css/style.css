@@ -1,0 +1,167 @@
+/* CSS Document */
+form {
+	margin: 0px 0px 0px 0px;
+}
+td {
+	font-size: 11px;
+}
+a {
+font-family:tahoma;
+font-size:11px;
+color:#FF0000;
+text-decoration:none;
+padding-left:10px;
+}
+a:hover {
+color:#FF0000;
+text-decoration:underline;
+}
+
+img {
+	border:none;
+}
+/*---------------------------*/
+.language {
+}
+.language:hover {
+}
+.language#active {
+}
+
+.datetime {
+}
+.lable {
+font-family:tahoma;
+font-size:12px;
+color:#000000;
+}
+.text_area {
+	border : 1px solid #ccc;
+	z-index: -3;
+	font-size: 11px;
+}
+input, textarea, select {
+	z-index : -3;
+	font-size: 11px;
+}
+.list_area {
+}
+.button {
+	border-top : solid 1px #d5d5d5;
+	border-right : solid 1px #808080;
+	border-bottom : solid 1px #808080;
+	border-left : solid 1px #d5d5d5;
+	color : #333;
+	font-weight : bold;
+}
+.titlemodule {
+}
+
+.readmore {
+font-family:tahoma;
+font-size:11px;
+color:#FF0000;
+text-decoration:none;
+padding-right:20px;
+padding-top:5px;
+}
+.readmore:hover {
+color:#FF0000;
+text-decoration:underline;
+}
+.readmore1 {
+font-family:tahoma;
+font-size:11px;
+color:#000000;
+text-decoration:none;
+font-weight:bold;
+}
+.readmore1:hover {
+color:#FF0000;
+text-decoration:underline;
+}
+#mainbody {
+	/*padding-left:7px;
+	padding-right:7px;
+	padding-bottom:10px;*/
+}
+#mainbody a {
+}
+#mainbody a:hover {
+}
+
+#mainbody .datetime {
+}
+
+#mainbody .td_readmore {
+}
+#mainbody .readmore {
+}
+#mainbody .readmore:hover {
+}
+
+#mainbody .paging {
+}
+#mainbody .paging a {
+}
+#mainbody .paging a:hover {
+}
+
+#mainbody .faq_ask {
+}
+#mainbody .faq_ask a {
+}
+#mainbody .faq_ans {
+}
+
+#mainbody .price {
+}
+#mainbody .td_image {
+}
+#mainbody .imageright {
+}
+#mainbody .imageleft {
+}
+#foot a {
+}
+.ngonngu{
+font-family:Tahoma;
+font-size:11px;
+font-weight:bold;
+color:#000000;
+text-decoration:none;
+text-transform:uppercase;
+}
+.ngonngu:hover{
+color:#FFFF00;
+text-decoration:underline;
+}
+.ht{
+font-family:tahoma;
+font-size:11px;
+color:#000000;
+padding-top:10px;
+text-transform:uppercase;
+}
+.ht a{
+color:#000000;
+text-decoration:none;
+}
+.ht a:hover{
+color:#FF0000;
+text-decoration:underline;
+}
+.pn{
+font-family:Tahoma;
+font-size:12px;
+color:#FFFFFF;
+
+}
+.pn a{
+color:#FFFFFF;
+text-decoration:none;
+}
+.pn a:hover{
+color:#FFFF00;
+text-decoration:underline;
+}

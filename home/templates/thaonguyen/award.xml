@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<maindata speed="-1" link="{link}" lang="{lang}">
+	<item>
+		<image src="templates/thaonguyen/images/award_08.png"></image>
+	</item>
+	<item>
+		<image src="templates/thaonguyen/images/award_10.png"></image>
+	</item>
+	<item>
+		<image src="templates/thaonguyen/images/award_03.png"></image>
+	</item>
+	<item>
+		<image src="templates/thaonguyen/images/award_06.png"></image>
+	</item>
+	<item>
+		<image src="templates/thaonguyen/images/award_05.png"></image>
+	</item>
+	<item>
+		<image src="templates/thaonguyen/images/award_02.png"></image>
+	</item>
+	<item>
+		<image src="templates/thaonguyen/images/award_04.png"></image>
+	</item>
+</maindata>

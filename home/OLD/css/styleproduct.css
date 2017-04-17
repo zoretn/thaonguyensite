@@ -1,0 +1,117 @@
+/* CSS Document */
+/* TITLE PRODUCT */
+#mainbody .title_productcategory {
+}
+/*/////////////////////////////////////////////////////////*/
+#mainbody .td_bodyproduct {
+}
+#mainbody .title_product_view {
+font-family:tahoma;
+font-size:12px;
+font-weight:bold;
+color:#FF0000;
+padding-left:50px;
+padding-bottom:20px;
+padding-top:30px;
+}
+#mainbody .intro_product_view {
+}
+#mainbody .product_view {
+font-family:tahoma;
+font-size:12px;
+color:#000000;
+text-align:justify;
+line-height:154%;
+padding-left:40px;
+padding-right:10px;
+}
+#mainbody .td_formproduct {
+}
+/*//////////////////////////////////////////////////////////*/
+#mainbody .td_listproduct_tt {
+padding-top:30px;
+}
+#mainbody .title_product  {
+font-family:tahoma;
+font-size:12px;
+font-weight:bold;
+color:#FF0000;
+padding-left:13px;
+padding-bottom:10px;
+padding-top:10px;
+}
+#mainbody .title_product a {
+}
+#mainbody .title_product a:hover {
+}
+#mainbody .intro_product {
+font-family:tahoma;
+font-size:12px;
+color:#000000;
+text-align:justify;
+line-height:154%;
+padding-left:20px;
+padding-right:10px;
+}
+#mainbody .td_formproduct {
+}
+#mainbody .td_listproduct_tt .row0 .td0 {
+border-bottom:2px #9c6a28 dotted;
+border-right:2px #9c6a28 dotted;
+padding-bottom:10px;
+padding-top:10px;
+}
+#mainbody .td_listproduct_tt .row0 .td1 {
+border-bottom:2px #9c6a28 dotted;
+padding-bottom:10px;
+padding-top:10px;
+}
+#mainbody .td_listproduct_tt .row1 .td0 {
+border-bottom:2px #9c6a28 dotted;
+border-right:2px #9c6a28 dotted;
+padding-bottom:10px;
+padding-top:10px;
+}
+#mainbody .td_listproduct_tt .row1 .td1 {
+border-bottom:2px #9c6a28 dotted;
+padding-bottom:10px;
+padding-top:10px;
+}
+/*/////////////////////////////////////////////////////*/
+#mainbody .td_listproduct_foot .row0 .td0 {
+border-bottom:2px #9c6a28 dotted;
+border-right:2px #9c6a28 dotted;
+padding-bottom:10px;
+padding-top:10px;
+}
+#mainbody .td_listproduct_foot .row0 .td1 {
+border-bottom:2px #9c6a28 dotted;
+padding-bottom:10px;
+padding-top:10px;
+}
+#mainbody .td_listproduct_foot .row1 .td0 {
+border-bottom:2px #9c6a28 dotted;
+border-right:2px #9c6a28 dotted;
+padding-bottom:10px;
+padding-top:10px;
+}
+#mainbody .td_listproduct_foot .row1 .td1 {
+border-bottom:2px #9c6a28 dotted;
+padding-bottom:10px;
+padding-top:10px;
+}
+#mainbody .td_listproduct_foot .title_product a {
+}
+#mainbody .td_listproduct_foot .title_product a:hover {
+}
+#mainbody .td_listproduct_foot .intro_product {
+}
+#mainbody .td_listproduct_foot .td_formproduct {
+}
+#mainbody .td_listproduct_foot .lable {
+}
+
+#mainbody .title_sectionproduct {
+}
+#mainbody .td_listproductcategory {
+}

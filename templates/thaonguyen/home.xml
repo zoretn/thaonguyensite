@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<maindata w="250" h="350" hostname="" radius_x="200" radius_y="30" scale="0.5" version="1" xmlns="http://xspf.org/ns/0/">
+	<!-- BEGIN row -->
+	<item>
+		<title>{row.title}</title>
+		<image src="{row.path}"></image>
+		<link href="{row.link}" target=""></link>
+	</item>
+	<!-- END row -->
+</maindata>

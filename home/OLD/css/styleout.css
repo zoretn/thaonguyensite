@@ -1,0 +1,61 @@
+/* CSS Document */
+/* Fix for MS Office style paragraphs (MsoNormal) */
+p {
+	margin: 0;
+	padding: 0;
+}
+
+/* Fix for MS Office unindeted lists */
+.unIndentedList {
+	margin: 0;
+	padding: 0;
+	list-style-position: inside;
+}
+
+.unIndentedList li {
+	padding: 0;
+}
+
+/* Fix for MS Office UL lists */
+ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.example1 {
+	font-weight: bold;
+	font-size: 14px
+}
+
+.example2 {
+	font-weight: bold;
+	font-size: 12px;
+	color: #FF0000
+}
+
+.tablerow1 {
+	background-color: #BBBBBB;
+}
+.td_title_top {
+	font-weight:bold;
+	font-size:12px;
+	font-family:Tahoma;
+	color:#666666;
+	text-align:center;
+	vertical-align:top;
+}
+.td_title_left {
+	font-weight:bold;
+	font-size:12px;
+	font-family:Tahoma;
+	color:#666666;
+	text-align:left;
+	vertical-align:top;
+}
+.link_in_content {
+	text-decoration:none;
+	color:#666666;
+}
+.link_in_content:hover {
+	text-decoration:underline;
+}
